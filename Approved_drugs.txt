@@ -1,0 +1,771 @@
+asenapine
+apomorphine
+aripiprazole
+bromocriptine
+buspirone
+cabergoline
+clozapine
+eletriptan
+naratriptan
+olanzapine
+quetiapine
+rizatriptan
+sumatriptan
+ziprasidone
+zolmitriptan
+chlorpromazine
+haloperidol
+pimozide
+pindolol
+risperidone
+sertindole
+thioridazine
+yohimbine
+dihydroergotamine
+ oxymetazoline
+methysergide
+mianserin
+ergotamine
+agomelatine 
+amitriptyline
+amoxapine
+duloxetine
+fluoxetine
+fluphenazine 
+loxapine
+molindone
+ perphenazine
+thiothixene
+trazodone
+trifluoperazine
+melatonin
+cisapride
+metoclopramide
+tropisetron
+cyproheptadine
+bethanechol
+carbachol
+pilocarpine
+n-methyl scopolamine
+atropine
+darifenacin
+ ipratropium
+pirenzepine 
+ propantheline
+scopolamine
+dexetimide
+dicyclomine
+imipramine
+oxybutynin
+clidinium
+tiotropium
+caffeine
+theophylline
+adrenaline
+methoxamine 
+phenylephrine
+tamsulosin
+silodosin 
+phentolamine
+prazosin
+noradrenaline
+clonidine 
+brimonidine
+dexmedetomidine
+guanfacine 
+dobutamine
+isoprenaline
+atenolol
+betaxolol
+bupranolol
+carvedilol
+metoprolol
+nadolol
+practolol
+ephedrine
+fenoterol
+ salbutamol
+ salmeterol
+terbutaline
+alprenolol
+propranolol
+ timolol
+levobunolol
+candesartan
+ eprosartan
+irbesartan
+losartan
+olmesartan 
+telmisartan 
+chenodeoxycholic acid 
+icatibant
+calcitonin
+maraviroc 
+ plerixafor
+fenoldopam 
+dopamine
+ rotigotine
+flupentixol
+pramipexole
+sulpiride
+ amisulpride
+domperidone
+17-beta-estradiol
+ fulvestrant
+ tamoxifen
+cyclosporin a 
+rosiglitazone
+baclofen
+liraglutide
+exendin-4
+glucagon
+fsh
+lh
+leuprolide
+abarelix
+cetrorelix 
+cetirizine
+diphenhydramine 
+doxepin 
+mepyramine
+triprolidine
+cimetidine
+ranitidine
+ramelteon
+pentazocine
+fentanyl
+morphine
+nalmefene
+nalorphine
+naloxone
+naltrexone
+nalbuphine
+buprenorphine
+codeine
+ticagrelor
+cangrelor
+ iloprost
+ misoprostol
+ bimatoprost
+latanoprost
+pasireotide
+lanreotide
+vapreotide
+trh
+dexamfetamine
+vasopressin
+oxytocin
+conivaptan
+tolvaptan
+cocaine
+ ondansetron
+alosetron
+diltiazem 
+granisetron
+nitrendipine
+colchicine 
+progesterone
+clomipramine
+desipramine
+halothane
+maprotiline
+ nortriptyline
+verapamil 
+fingolimod
+glibenclamide
+fampridine
+amiloride 
+menthol
+capsaicin
+no
+nimodipine
+propafenone
+sibutramine
+mefenamic acid
+retigabine
+astemizole
+dofetilide
+terfenadine
+lidocaine
+phenytoin
+mexiletine
+triiodothyronine
+tretinoin
+alitretinoin
+tamibarotene 
+clofibrate
+bezafibrate
+troglitazone
+pioglitazone
+mesalazine
+ ibuprofen
+diclofenac
+lovastatin
+ dexamethasone
+paclitaxel
+calcipotriol 
+1,25-dihydroxyvitamin d3
+paricalcitol
+diethylstilbestrol
+mifepristone
+bexarotene
+estrone 
+raloxifene
+estriol
+adenosine
+fluoxymesterone
+bicalutamide
+nilutamide
+ cyproterone acetate
+prednisolone
+cortisol
+triamcinolone
+fludrocortisone
+drospirenone
+ spironolactone
+eplerenone
+dydrogesterone
+medroxyprogesterone
+norethisterone
+levonorgestrel 
+suvorexant
+celecoxib
+rofecoxib
+valdecoxib
+etoricoxib
+lumiracoxib
+lorcaserin
+atorvastatin
+cerivastatin
+fluvastatin
+pravastatin
+rosuvastatin
+simvastatin
+ibandronic acid
+alendronate
+risedronate
+zoledronic acid
+cinacalcet
+zafirlukast
+montelukast
+diazepam
+obeticholic acid
+ciprofibrate
+gemfibrozil
+procaterol
+formoterol
+aprepitant
+bosentan
+sufentanil
+pranlukast
+secretin
+goserelin 
+nafarelin
+tsh 
+valsartan
+sitaxsentan
+ambrisentan
+mecamylamine
+pancuronium
+succinylcholine
+vorapaxar
+amantadine
+ aspirin
+clomiphene
+cyclothiazide 
+dantrolene
+flumazenil
+flunitrazepam
+flurbiprofen
+heparin
+ketamine
+lubiprostone
+nafamostat
+omeprazole
+triamterene
+zolpidem
+probenecid
+teriparatide
+canagliflozin
+ dapagliflozin
+digoxin
+sildenafil 
+empagliflozin
+paroxetine
+nomifensine
+ gemcitabine
+ketoprofen
+mazindol
+sertraline 
+fludarabine
+ pentostatin
+dipyridamole
+reboxetine
+aliskiren
+methotrexate
+ tiagabine
+fexofenadine
+fenoprofen 
+vigabatrin
+ reserpine
+tetrabenazine
+chlorothiazide
+hydrochlorothiazide
+bumetanide
+metolazone
+ furosemide
+miglustat
+miglitol
+crizotinib
+erlotinib 
+gefitinib
+ growth hormone 1
+imiquimod
+insulin 
+linaclotide
+pertuzumab 
+trastuzumab
+methyltyrosine
+anastrozole
+captopril
+carbidopa
+cilastatin 
+eflornithine 
+fasudil
+letrozole
+metyrapone
+milrinone
+naproxen
+sapropterin
+orlistat
+tranylcypromine 
+zileuton
+adapalene
+guanabenz
+methadone
+ varenicline
+esomeprazole
+sulpiride
+degarelix
+regadenoson
+masitinib
+axitinib
+selumetinib
+afatinib
+tofacitinib
+dasatinib
+neratinib
+imatinib
+ruxolitinib 
+lapatinib
+nilotinib
+pazopanib
+midostaurin
+bosutinib
+sorafenib
+sunitinib
+ fedratinib
+vandetanib
+treprostinil 
+sufinpyrazone
+cabozantinib
+everolimus
+ponatinib
+regorafenib
+temsirolimus
+vemurafenib
+nintedanib
+sirolimus
+tivozanib 
+clemastine
+sitagliptin
+ vildagliptin
+saxagliptin
+linagliptin
+alogliptin
+ enalapril
+enalaprilat 
+ramipril
+ramiprilat
+quinaprilat
+lisinopril
+perindopril
+ perindoprilat
+ benazepril
+benazeprilat
+imidapril 
+imidaprilat 
+argatroban
+rivaroxaban
+apixaban 
+bortezomib
+camostat
+sivelestat
+trandolapril
+trandolaprilat
+fosinopril
+desirudin 
+cilazapril
+cilazaprilat
+zofenopril
+doxycycline
+lepirudin
+bivalirudin
+mogamulizumab
+dabrafenib
+trametinib
+ aprotinin
+moexipril
+tranexamic acid
+6-aminocaproic acid
+spirapril 
+spiraprilat
+abciximab
+eptifibatide
+tirofiban
+natalizumab 
+efalizumab
+physostigmine
+donepezil
+rivastigmine
+selegiline
+rasagiline
+tolcapone
+entacapone
+methimazole
+propylthiouracil
+ketorolac
+tacrine
+fluticasone
+idelalisib 
+alirocumab
+alemtuzumab
+brentuximab vedotin
+gemtuzumab ozogamicin
+ibritumomab tiuxetan
+ofatumumab
+rituximab
+tositumomab
+ digitoxin
+pimecrolimus
+ tacrolimus
+vincristine
+alefacept
+ drotrecogin alfa
+acetazolamide
+acetyldigitoxin 
+allopurinol 
+brinzolamide 
+cabazitaxel
+capecitabine 
+carmustine
+clofarabine
+dalteparin
+danaparoid
+deslanoside 
+dicumarol
+docetaxel
+enoxaparin
+enzalutamide
+eribulin
+ethoxzolamide
+etoposide
+ ezetimibe
+febuxostat
+finasteride
+fondaparinux
+hydroxyurea
+ irinotecan
+ ixabepilone
+leflunomide
+levetiracetam
+methazolamide 
+mycophenolate mofetil
+ mycophenolic acid
+nitisinone
+oxiglutatione
+pemetrexed
+phenindione
+phenprocoumon
+pralatrexate
+repaglinide
+ribavirin
+teriflunomide
+thioguanine
+tinzaparin
+ tolbutamide
+trilostane
+vinblastine
+vorinostat
+warfarin
+daclizumab
+tocilizumab
+cetuximab
+panitumumab
+ipilimumab 
+muromonab-cd3
+omalizumab
+abatacept
+belatacept
+ibrutinib
+obinutuzumab
+danazol
+flutamide
+dromostanolone propionate
+ ethylestrenol
+nandrolone
+dextrothyroxine
+tazarotene
+palifermin
+alpha-methyltyrosine
+tesamorelin
+anisindione
+eltrombopag
+roflumilast 
+clonazepam
+cosyntropin
+corticotropin zinc hydroxide
+pegfilgrastim
+oprelvekin
+anakinra
+calcitonin
+romiplostim
+vismodegib
+chlorpheniramine
+sermorelin
+romidepsin
+tazemetostat
+teduglutide
+aminoglutethimide
+beclometasone
+betamethasone
+clobetasol propionate
+desoximetasone
+diflorasone diacetate
+ ethinylestradiol
+exemestane 
+famotidine
+ flunisolide
+fluocinolone acetonide
+fluocinonide
+ fluorometholone
+ fluticasone propionate
+hydrocodone
+hydromorphone
+methylprednisolone
+prednisone
+testosterone propionate
+acebutolol
+alfuzosin
+anagrelide
+apraclonidine
+atomoxetine
+azelastine
+benzquinamide
+biperiden
+bromfenac
+bupropion
+carprofen
+chlorthalidone
+cilostazol
+ cyclizine
+dapiprazole
+desloratadine
+desvenlafaxine
+doxazosin
+epinastine 
+escitalopram
+esmolol
+etodolac
+fenofibrate
+fluvoxamine
+frovatriptan
+hydroxychloroquine
+hydroxyzine
+ibutilide
+inamrinone
+ ketotifen
+labetalol
+levallorphan
+loperamide
+loratadine
+meclofenamic acid
+meloxicam
+pethidine
+methylphenidate
+mirtazapine
+ nefazodone
+orciprenaline
+oxaprozin
+pamidronic acid
+phenelzine
+ phenoxybenzamine
+phenylbutazone
+piroxicam
+probucol
+prochlorperazine
+promazine
+promethazine
+protriptyline
+ropinirole
+sotalol
+suprofen
+tadalafil
+terazosin
+testolactone
+tolazoline
+triazolam
+trihexyphenidyl
+trimipramine
+tripelennamine
+tropicamide
+vardenafil
+venlafaxine 
+nivolumab
+evolocumab
+ vortioxetine
+macitentan
+vilanterol
+bazedoxifene 
+ simeprevir
+apremilast
+palbociclib
+ribociclib
+catumaxomab
+lixisenatide
+ramucirumab
+tasimelteon
+daratumumab
+ceritinib
+ibudilast 
+nimesulide
+raltitrexed
+tolrestat
+lenvatinib
+vilazodone
+moclobemide
+ budesonide
+levomilnacipran
+milnacipran
+vedolizumab 
+ingenol mebutate
+mirabegron 
+peginesatide
+aclidinium
+tafluprost
+crofelemer
+ indacaterol
+glycopyrrolate
+ulipristal acetate
+lurasidone
+peginterferon alfa-2b
+ciclesonide
+alvimopan
+lacosamide
+ difluprednate
+lorlatinib 
+tapentadol
+arformoterol
+solifenacin
+pegvisomant
+palonosetron 
+alpha1-proteinase inhibitor
+ pembrolizumab
+olaparib
+lifitegrast
+ brodalumab
+ olodaterol
+citalopram
+dosulepin
+ lofepramine
+dexmethylphenidate
+perospirone
+pipotiazine
+methylnaltrexone
+dupilumab
+edoxaban
+ ocrelizumab
+butorphanol
+levorphanol
+pralidoxime
+ cobimetinib
+ icotinib
+blonanserin
+moxetumomab pasudotox
+ rucaparib
+alectinib
+brigatinib
+baricitinib
+duvelisib
+gabexate
+dapoxetine
+capmatinib
+binimetinib
+ alpelisib
+inebilizumab
+sarilumab 
+levobetaxolol
+necitumumab 
+flibanserin
+ sonidegib
+glasdegib 
+sacituzumab govitecan 
+inotuzumab ozogamicin
+niraparib
+safinamide 
+abaloparatide 
+tucidinostat
+fadrozole
+ sotagliflozin
+talazoparib
+ venetoclax
+elotuzumab
+elagolix
+ ertugliflozin
+polatuzumab vedotin
+pimavanserin
+ ixazomib
+valbenazine
+deutetrabenazine
+ozanimod
+pexidartinib
+ isatuximab
+acalabrutinib 
+ pitolisant
+opicapone
+mometasone
+brivaracetam
+apalutamide
+enoximone
+satralizumab 
+lanadelumab 
+naldemedine
+olaratumab 
+ ivosidenib
+upadacitinib
+erenumab
+siponimod
+lemborexant
+ipragliflozin
+tofogliflozin 
+itolizumab
+fruquintinib
+betrixaban
+delgocitinib
+semaglutide
+macimorelin
+teneligliptin
+tucatinib
+trifarotene
+lusutrombopag
+cemiplimab
+mizolastine
+rupatadine
+ ibalizumab
+ripasudil
+darolutamide
+teprotumumab
+rimegepant
+enfortumab vedotin
+tafasitamab
+clascoterone
