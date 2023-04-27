@@ -21,11 +21,13 @@ valid_url('https://www.not_existing_nonsense.com/')
 ############# Package installation and import ############# 
 install.packages('gdata')
 install.packages('stringi')
+install.packages('stringr')
 install.packages('wordcloud2')
 install.packages('webshot')
 install.packages('htmlwidgets')
 library('gdata')
 library('stringi')
+library('stringr')
 library('wordcloud2')
 library('webshot')
 library('htmlwidgets')
@@ -37,7 +39,7 @@ library('htmlwidgets')
 Search_terms = My_drugs
 
 # Curating search terms
-Search_terms = trim(Search_terms)
+Search_terms = str_trim(Search_terms)
 Search_terms = Search_terms[Search_terms!= '']
 Search_terms = Search_terms[!is.na(Search_terms)]
 Search_terms = toupper(Search_terms)
